@@ -1,0 +1,8 @@
+DIO.obj: ../DIO.c
+DIO.obj: ..\SchM_DIO.h
+DIO.obj: ..\tm4c123gh6pm.h
+DIO.obj: ..\DIO.h
+DIO.obj: ..\Std_Types.h
+DIO.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdint.h
+DIO.obj: ..\DIO_Cfg.h
+DIO.obj: ..\Utils.h
